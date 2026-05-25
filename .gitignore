@@ -1,0 +1,15 @@
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Anaconda / Environments
+env/
+venv/
+.env
+.venv
+ENV/
